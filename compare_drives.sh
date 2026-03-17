@@ -50,86 +50,74 @@ TOTAL_ONLY_A=0
 TOTAL_ONLY_B=0
 TOTAL_SHARED=0
 
-# ── Per-category comparison (function avoids declare -A bugs in loops) ────────
-compare_category() {
-    local CATEGORY="$1"
-    local PATH_A="$2"
-    local PATH_B="$3"
-
-    local -A SET_A
-    local -A SET_B
-
-    # ── Collect container names from drive A ─────────────────────────────
-    if [[ -d "$PATH_A" ]]; then
-        while IFS= read -r -d '' DIR; do
-            SET_A["$(basename "$DIR")"]=1
-        done < <(find -L "$PATH_A" -mindepth 1 -maxdepth 1 -type d -print0 | sort -z)
+# ── Helper: list sorted container folder names in a directory, one per line ───
+list_containers() {
+    local DIR="$1"
+    if [[ -d "$DIR" ]]; then
+        find -L "$DIR" -mindepth 1 -maxdepth 1 -type d -print0 \
+            | sort -z \
+            | xargs -0 -I{} basename "{}"
     fi
+}
 
-    # ── Collect container names from drive B ─────────────────────────────
-    if [[ -d "$PATH_B" ]]; then
-        while IFS= read -r -d '' DIR; do
-            SET_B["$(basename "$DIR")"]=1
-        done < <(find -L "$PATH_B" -mindepth 1 -maxdepth 1 -type d -print0 | sort -z)
-    fi
+# ── Per-category comparison using comm (no associative arrays) ────────────────
+WORK_DIR="$(mktemp -d)"
+trap 'rm -rf "$WORK_DIR"' EXIT
 
-    local ONLY_A=()   # in A but not B
-    local ONLY_B=()   # in B but not A
-    local SHARED=0
+for CATEGORY in "${CATEGORIES[@]}"; do
+    PATH_A="$DRIVE_A/$CATEGORY"
+    PATH_B="$DRIVE_B/$CATEGORY"
 
-    # ── Find entries only on A ────────────────────────────────────────────
-    while IFS= read -r -d '' NAME; do
-        if [[ -z "${SET_B[$NAME]+_}" ]]; then
-            ONLY_A+=("$NAME")
-        else
-            (( SHARED++ )) || true
-        fi
-    done < <(printf '%s\0' "${!SET_A[@]}" | sort -z)
+    list_containers "$PATH_A" > "$WORK_DIR/a.txt"
+    list_containers "$PATH_B" > "$WORK_DIR/b.txt"
 
-    # ── Find entries only on B ────────────────────────────────────────────
-    while IFS= read -r -d '' NAME; do
-        if [[ -z "${SET_A[$NAME]+_}" ]]; then
-            ONLY_B+=("$NAME")
-        fi
-    done < <(printf '%s\0' "${!SET_B[@]}" | sort -z)
+    COUNT_A="$(wc -l < "$WORK_DIR/a.txt" | tr -d ' ')"
+    COUNT_B="$(wc -l < "$WORK_DIR/b.txt" | tr -d ' ')"
 
-    # ── Print results for this category ──────────────────────────────────
+    # comm requires sorted input — list_containers produces sorted output
+    # -23 = only in A    -13 = only in B    -12 = in both
+    ONLY_A="$(comm -23 "$WORK_DIR/a.txt" "$WORK_DIR/b.txt" || true)"
+    ONLY_B="$(comm -13 "$WORK_DIR/a.txt" "$WORK_DIR/b.txt" || true)"
+    SHARED="$(comm -12 "$WORK_DIR/a.txt" "$WORK_DIR/b.txt" | wc -l | tr -d ' ')"
+
+    COUNT_ONLY_A=0
+    [[ -n "$ONLY_A" ]] && COUNT_ONLY_A="$(echo "$ONLY_A" | wc -l | tr -d ' ')"
+
+    COUNT_ONLY_B=0
+    [[ -n "$ONLY_B" ]] && COUNT_ONLY_B="$(echo "$ONLY_B" | wc -l | tr -d ' ')"
+
     echo "━━━  $CATEGORY  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-    echo "  On Drive A : ${#SET_A[@]} container(s)"
-    echo "  On Drive B : ${#SET_B[@]} container(s)"
+    echo "  On Drive A : $COUNT_A container(s)"
+    echo "  On Drive B : $COUNT_B container(s)"
     echo "  Shared     : $SHARED"
 
-    if [[ ${#ONLY_A[@]} -eq 0 && ${#ONLY_B[@]} -eq 0 ]]; then
+    if [[ $COUNT_ONLY_A -eq 0 && $COUNT_ONLY_B -eq 0 ]]; then
         echo "  Status     : IDENTICAL"
     else
         echo "  Status     : DIFFERENCES FOUND"
 
-        if [[ ${#ONLY_A[@]} -gt 0 ]]; then
+        if [[ $COUNT_ONLY_A -gt 0 ]]; then
             echo
-            echo "  Only on Drive A (${#ONLY_A[@]}) — missing from B:"
-            for NAME in "${ONLY_A[@]}"; do
+            echo "  Only on Drive A ($COUNT_ONLY_A) — missing from B:"
+            while IFS= read -r NAME; do
                 echo "    < $CATEGORY/$NAME"
-            done
+            done <<< "$ONLY_A"
         fi
 
-        if [[ ${#ONLY_B[@]} -gt 0 ]]; then
+        if [[ $COUNT_ONLY_B -gt 0 ]]; then
             echo
-            echo "  Only on Drive B (${#ONLY_B[@]}) — missing from A:"
-            for NAME in "${ONLY_B[@]}"; do
+            echo "  Only on Drive B ($COUNT_ONLY_B) — missing from A:"
+            while IFS= read -r NAME; do
                 echo "    > $CATEGORY/$NAME"
-            done
+            done <<< "$ONLY_B"
         fi
     fi
 
     echo
 
-    (( TOTAL_ONLY_A += ${#ONLY_A[@]} )) || true
-    (( TOTAL_ONLY_B += ${#ONLY_B[@]} )) || true
-    (( TOTAL_SHARED += SHARED         )) || true
-}
-
-for CATEGORY in "${CATEGORIES[@]}"; do
-    compare_category "$CATEGORY" "$DRIVE_A/$CATEGORY" "$DRIVE_B/$CATEGORY"
+    (( TOTAL_ONLY_A += COUNT_ONLY_A )) || true
+    (( TOTAL_ONLY_B += COUNT_ONLY_B )) || true
+    (( TOTAL_SHARED += SHARED       )) || true
 done
 
 # ── Overall summary ───────────────────────────────────────────────────────────
