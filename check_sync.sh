@@ -47,18 +47,18 @@ for CATEGORY in "${CATEGORIES[@]}"; do
     fi
 
     # ── Containers missing a hash file ───────────────────────────────────
-    for NAME in $(printf '%s\n' "${!CONTAINERS[@]}" | sort); do
+    while IFS= read -r -d '' NAME; do
         if [[ -z "${HASHED[$NAME]+_}" ]]; then
             MISSING_HASH+=("$NAME")
         fi
-    done
+    done < <(printf '%s\0' "${!CONTAINERS[@]}" | sort -z)
 
     # ── Hash files with no matching container folder ──────────────────────
-    for NAME in $(printf '%s\n' "${!HASHED[@]}" | sort); do
+    while IFS= read -r -d '' NAME; do
         if [[ -z "${CONTAINERS[$NAME]+_}" ]]; then
             ORPHAN_HASH+=("$NAME")
         fi
-    done
+    done < <(printf '%s\0' "${!HASHED[@]}" | sort -z)
 
     # ── Print results for this category ──────────────────────────────────
     echo "━━━  $CATEGORY  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
