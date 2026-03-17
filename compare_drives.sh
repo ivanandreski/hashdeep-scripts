@@ -61,14 +61,14 @@ for CATEGORY in "${CATEGORIES[@]}"; do
     if [[ -d "$PATH_A" ]]; then
         while IFS= read -r -d '' DIR; do
             SET_A["$(basename "$DIR")"]=1
-        done < <(find "$PATH_A" -mindepth 1 -maxdepth 1 -type d -print0 | sort -z)
+        done < <(find -L "$PATH_A" -mindepth 1 -maxdepth 1 -type d -print0 | sort -z)
     fi
 
     # ── Collect container names from drive B ─────────────────────────────
     if [[ -d "$PATH_B" ]]; then
         while IFS= read -r -d '' DIR; do
             SET_B["$(basename "$DIR")"]=1
-        done < <(find "$PATH_B" -mindepth 1 -maxdepth 1 -type d -print0 | sort -z)
+        done < <(find -L "$PATH_B" -mindepth 1 -maxdepth 1 -type d -print0 | sort -z)
     fi
 
     ONLY_A=()   # in A but not B
@@ -76,20 +76,20 @@ for CATEGORY in "${CATEGORIES[@]}"; do
     SHARED=0
 
     # ── Find entries only on A ────────────────────────────────────────────
-    for NAME in $(printf '%s\n' "${!SET_A[@]}" | sort); do
+    while IFS= read -r -d '' NAME; do
         if [[ -z "${SET_B[$NAME]+_}" ]]; then
             ONLY_A+=("$NAME")
         else
             (( SHARED++ )) || true
         fi
-    done
+    done < <(printf '%s\0' "${!SET_A[@]}" | sort -z)
 
     # ── Find entries only on B ────────────────────────────────────────────
-    for NAME in $(printf '%s\n' "${!SET_B[@]}" | sort); do
+    while IFS= read -r -d '' NAME; do
         if [[ -z "${SET_A[$NAME]+_}" ]]; then
             ONLY_B+=("$NAME")
         fi
-    done
+    done < <(printf '%s\0' "${!SET_B[@]}" | sort -z)
 
     # ── Print results for this category ──────────────────────────────────
     echo "━━━  $CATEGORY  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
