@@ -47,19 +47,19 @@ for CATEGORY in "${CATEGORIES[@]}"; do
     # ── Check: hash file exists but its container folder has been removed ───
     if [[ -d "$HASH_CATEGORY_DIR" ]]; then
         while IFS= read -r -d '' HASH_FILE; do
-            CONTAINER_NAME="$(basename "$HASH_FILE" .txt)"
+            CONTAINER_NAME="$(basename "$HASH_FILE" .hashdeep)"
             CONTAINER_PATH="$CATEGORY_PATH/$CONTAINER_NAME"
             if [[ ! -d "$CONTAINER_PATH" ]]; then
                 echo "  [ORPHAN]  Hash file has no matching folder: $CATEGORY/$CONTAINER_NAME"
                 (( MISSING_CONTAINER++ )) || true
             fi
-        done < <(find "$HASH_CATEGORY_DIR" -maxdepth 1 -name "*.txt" -print0 2>/dev/null | sort -z)
+        done < <(find "$HASH_CATEGORY_DIR" -maxdepth 1 -name "*.hashdeep" -print0 2>/dev/null | sort -z)
     fi
 
     # ── Check: container folder exists → verify against hash file ──────────
     while IFS= read -r -d '' CONTAINER_PATH; do
         CONTAINER_NAME="$(basename "$CONTAINER_PATH")"
-        HASH_FILE="$HASH_CATEGORY_DIR/${CONTAINER_NAME}.txt"
+        HASH_FILE="$HASH_CATEGORY_DIR/${CONTAINER_NAME}.hashdeep"
 
         printf "  %-50s" "$CONTAINER_NAME"
 

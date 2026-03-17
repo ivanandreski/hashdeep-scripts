@@ -7,8 +7,8 @@
 #   $DRIVE_ROOT/
 #     4kMovies/<ContainerFolder>/...
 #     Movies/<ContainerFolder>/...
-#     hashes/4kMovies/<ContainerFolder>.txt
-#     hashes/Movies/<ContainerFolder>.txt
+#     hashes/4kMovies/<ContainerFolder>.hashdeep
+#     hashes/Movies/<ContainerFolder>.hashdeep
 #
 # Usage:
 #   ./generate_hashes.sh /path/to/drive/root
@@ -42,7 +42,14 @@ for CATEGORY in "${CATEGORIES[@]}"; do
     # Iterate over every direct sub-folder (movie container)
     while IFS= read -r -d '' CONTAINER_PATH; do
         CONTAINER_NAME="$(basename "$CONTAINER_PATH")"
-        HASH_FILE="$HASH_CATEGORY_DIR/${CONTAINER_NAME}.txt"
+        HASH_FILE="$HASH_CATEGORY_DIR/${CONTAINER_NAME}.hashdeep"
+
+        # Skip if hash already exists
+        if [[ -s "$HASH_FILE" ]]; then
+            echo "  Skipping: $CONTAINER_NAME (hash exists)"
+            (( SKIPPED++ )) || true
+            continue
+        fi
 
         echo -n "  Hashing: $CONTAINER_NAME ... "
 

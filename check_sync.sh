@@ -37,13 +37,13 @@ for CATEGORY in "${CATEGORIES[@]}"; do
         done < <(find "$CATEGORY_PATH" -mindepth 1 -maxdepth 1 -type d -print0 | sort -z)
     fi
 
-    # ── Build list of hash file names (strip .txt suffix) ────────────────
+    # ── Build list of hash file names (strip .hashdeep suffix) ────────────────
     declare -A HASHED=()
     if [[ -d "$HASH_CATEGORY_DIR" ]]; then
         while IFS= read -r -d '' FILE; do
-            NAME="$(basename "$FILE" .txt)"
+            NAME="$(basename "$FILE" .hashdeep)"
             HASHED["$NAME"]=1
-        done < <(find "$HASH_CATEGORY_DIR" -maxdepth 1 -name "*.txt" -print0 | sort -z)
+        done < <(find "$HASH_CATEGORY_DIR" -maxdepth 1 -name "*.hashdeep" -print0 | sort -z)
     fi
 
     # ── Containers missing a hash file ───────────────────────────────────
@@ -105,7 +105,7 @@ else
     echo "  Orphaned hash files       : $TOTAL_ORPHAN_HASH"
     echo
     echo "  Run generate_hashes.sh to create missing hash files."
-    echo "  Remove orphaned .txt files from the hashes/ folder manually if the"
+    echo "  Remove orphaned .hashdeep files from the hashes/ folder manually if the"
     echo "  corresponding container was intentionally deleted."
     echo "════════════════════════════════════════"
     exit 1

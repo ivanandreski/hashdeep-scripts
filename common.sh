@@ -24,7 +24,7 @@ if [[ $# -lt 1 ]]; then
 fi
 
 DRIVE_ROOT="$1"
-CATEGORIES=("4kMovies" "Movies")
+CATEGORIES=("4KMovies" "Movies")
 HASH_DIR="$DRIVE_ROOT/hashes"
 
 # ── Validate drive root ───────────────────────────────────────────────────────
