@@ -50,14 +50,14 @@ TOTAL_ONLY_A=0
 TOTAL_ONLY_B=0
 TOTAL_SHARED=0
 
-for CATEGORY in "${CATEGORIES[@]}"; do
-    PATH_A="$DRIVE_A/$CATEGORY"
-    PATH_B="$DRIVE_B/$CATEGORY"
+# ── Per-category comparison (function avoids declare -A bugs in loops) ────────
+compare_category() {
+    local CATEGORY="$1"
+    local PATH_A="$2"
+    local PATH_B="$3"
 
-    unset SET_A
-    declare -A SET_A
-    unset SET_B
-    declare -A SET_B
+    local -A SET_A
+    local -A SET_B
 
     # ── Collect container names from drive A ─────────────────────────────
     if [[ -d "$PATH_A" ]]; then
@@ -73,9 +73,9 @@ for CATEGORY in "${CATEGORIES[@]}"; do
         done < <(find -L "$PATH_B" -mindepth 1 -maxdepth 1 -type d -print0 | sort -z)
     fi
 
-    ONLY_A=()   # in A but not B
-    ONLY_B=()   # in B but not A
-    SHARED=0
+    local ONLY_A=()   # in A but not B
+    local ONLY_B=()   # in B but not A
+    local SHARED=0
 
     # ── Find entries only on A ────────────────────────────────────────────
     while IFS= read -r -d '' NAME; do
@@ -126,9 +126,10 @@ for CATEGORY in "${CATEGORIES[@]}"; do
     (( TOTAL_ONLY_A += ${#ONLY_A[@]} )) || true
     (( TOTAL_ONLY_B += ${#ONLY_B[@]} )) || true
     (( TOTAL_SHARED += SHARED         )) || true
+}
 
-    unset SET_A
-    unset SET_B
+for CATEGORY in "${CATEGORIES[@]}"; do
+    compare_category "$CATEGORY" "$DRIVE_A/$CATEGORY" "$DRIVE_B/$CATEGORY"
 done
 
 # ── Overall summary ───────────────────────────────────────────────────────────
