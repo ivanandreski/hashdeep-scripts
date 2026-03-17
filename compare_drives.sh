@@ -54,6 +54,7 @@ for CATEGORY in "${CATEGORIES[@]}"; do
     PATH_A="$DRIVE_A/$CATEGORY"
     PATH_B="$DRIVE_B/$CATEGORY"
 
+    unset SET_A SET_B
     declare -A SET_A=()
     declare -A SET_B=()
 
