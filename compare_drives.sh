@@ -6,7 +6,7 @@
 #
 # Expected drive layout on each drive:
 #   $DRIVE_ROOT/
-#     4kMovies/<ContainerFolder>/
+#     4KMovies/<ContainerFolder>/
 #     Movies/<ContainerFolder>/
 #
 # Exit codes:
@@ -19,7 +19,7 @@
 
 set -euo pipefail
 
-CATEGORIES=("4kMovies" "Movies")
+CATEGORIES=("4KMovies" "Movies")
 
 # ── Arguments ─────────────────────────────────────────────────────────────────
 if [[ $# -lt 2 ]]; then

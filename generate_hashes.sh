@@ -5,9 +5,9 @@
 #
 # Expected drive layout:
 #   $DRIVE_ROOT/
-#     4kMovies/<ContainerFolder>/...
+#     4KMovies/<ContainerFolder>/...
 #     Movies/<ContainerFolder>/...
-#     hashes/4kMovies/<ContainerFolder>.hashdeep
+#     hashes/4KMovies/<ContainerFolder>.hashdeep
 #     hashes/Movies/<ContainerFolder>.hashdeep
 #
 # Usage:

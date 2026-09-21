@@ -5,7 +5,7 @@
 #
 # After sourcing, the following variables are available:
 #   DRIVE_ROOT  — validated path supplied as $1 by the calling script
-#   CATEGORIES  — ("4kMovies" "Movies")
+#   CATEGORIES  — ("4KMovies" "Movies")
 #   HASH_DIR    — $DRIVE_ROOT/hashes
 #
 # Optional helper functions to call as needed:
