@@ -1,0 +1,5 @@
+dovi_tool -m 2 --crop extract-rpu -i input_REMUX.mkv -o dv_metadata.rpu
+
+mkvextract input_ENCODED.mkv tracks 0:/mnt/kc600/raw_video.hevc
+
+dovi_tool inject-rpu --input /mnt/kc600/raw_video.hevc --rpu-in dv_metadata.rpu -o /mnt/kc600/video_with_dv.hevc
