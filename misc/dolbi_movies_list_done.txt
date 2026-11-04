@@ -1,0 +1,228 @@
+========================================
+             MOVIE HDR REPORT
+========================================
+
+Directory: /run/media/ivan/THE_VAULT/4KMovies
+Total movies: 206
+
+Dolby Vision: 28
+HDR10+:       5
+HDR10 / HDR:  161
+SDR:          12
+
+========================================
+             DOLBY VISION
+========================================
+/run/media/ivan/THE_VAULT/4KMovies/Aliens.1986.2160p.UHD.BluRay.x265-ANZZ/Aliens.1986.Special.Edition.Uhd.Bluray.2160P-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Ben-Hur.1959.2160p.UHD.BluRay.x265-E/Ben-Hur.1959.2160p.UHD.BluRay.x265-E.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Bram.Stokers.Dracula.1992.2160.UHD.BluRay.x265-E/Bram.Stokers.Dracula.1992.2160.UHD.BluRay.x265-E.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Bugonia.2025.2160p.UHD.BluRay.x265-E/Bugonia.2025.2160p.UHD.BluRay.x265-E.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Chinatown.1974.2160p.UHD.Bluray.x265-ANZZ/Chinatown.1974.2160p.UHD.Bluray.x265-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/One.Battle.After.Another.2025.2160p.UHD.Bluray.Remux.x265-CiNEPHiLES/One Battle After Another (2025) REPACK.mkv
+/run/media/ivan/THE_VAULT/4KMovies/La.La.Land.2016.2160p.UHD.BluRay.x265-E/La.La.Land.2016.2160p.UHD.BluRay.x265-E.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Lawrence.of.Arabia.1962.2160p.UHD.BluRay.x265-E/Lawrence.of.Arabia.1962.2160p.UHD.BluRay.x265-E.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Mickey.17.2025.2160p.UHD.BluRay.HDR.HEVC.EAC3-r00t/Mickey.17.2025.2160p.UHD.BluRay.HDR.HEVC.EAC3-r00t.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Schindlers.List.1993.2160.UHD.BluRay.x265-ANZZ/Schindlers.List.1993.2160.UHD.BluRay.x265-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Starship.Troopers.1997.UHD.BluRay.2160p.x265-E/Starship.Troopers.1997.UHD.BluRay.2160p.x265-E.mkv
+/run/media/ivan/THE_VAULT/4KMovies/The.Cat.ONine.Tails.1971.2160p.UHD.BluRay.x265-ANZZ/The.Cat.ONine.Tails.1971.2160p.UHD.BluRay.x265-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/The.Fantastic.4.First.Steps.2025.2160p.UHD.BluRay.x265-r00t/The.Fantastic.4.First.Steps.2025.2160p.UHD.BluRay.x265-r00t.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Thunderbolts.2025.2160p.UHD.BluRay.HDR.HEVC.EAC3-r00t/Thunderbolts.2025.2160p.UHD.BluRay.HDR.HEVC.EAC3-r00t.mkv
+/run/media/ivan/THE_VAULT/4KMovies/To.Catch.A.Thief.1955.2160p.UHD.BluRay.HDR.HEVC.AC3-ANZZ/To.Catch.A.Thief.1955.2160p.UHD.BluRay.HDR.HEVC.AC3-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Top.Gun.1986.2160p.UHD.BluRay.x265-E/Top.Gun.1986.2160p.UHD.BluRay.x265-E.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Transformers.Dark.of.the.Moon.2011.UHD.BluRay.2160p.x265-E/Transformers.Dark.of.the.Moon.2011.UHD.BluRay.2160p.x265-E.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Troy.2004.DC.2160p.UHD.BluRay.x265-E/Troy.2004.DC.2160p.UHD.BluRay.x265-E.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Sinners.2025.2160p.UHD.BluRay.HDR.HEVC.EAC3-E/Sinners.2025.2160p.UHD.BluRay.HDR.HEVC.EAC3-E.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Sisu.2022.2160p.WEB-DL.x265.10bit.HDR.DDP5.1.Atmos.x265-APEX/Sisu.2023.REPACK.2160p.WEB-DL.DDP5.1.Atmos.DV.HDR10+.H.265-APEX.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Spider-Man.2.2004.UHD.BluRay.2160p.TrueHD.Atmos.7.1.DV.HEVC.HYBRID.REMUX-FraMeSToR/Spider-Man.2.2004.UHD.BluRay.2160p.TrueHD.Atmos.7.1.DV.HEVC.HYBRID.REMUX-FraMeSToR.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Spider-Man.3.2007.REPACK.UHD.BluRay.2160p.TrueHD.Atmos.7.1.DV.HEVC.HYBRID.REMUX-FraMeSToR/Spider-Man.3.2007.REPACK.UHD.BluRay.2160p.TrueHD.Atmos.7.1.DV.HEVC.HYBRID.REMUX-FraMeSToR.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Crime.101.2026.2160p.UHD.BluRay.x265-r00t/Crime.101.2026.2160p.UHD.BluRay.x265-r00t.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Deadpool.and.Wolverine.2024.2160p.BluRay x265-r00t/Deadpool.and.Wolverine.2024.2160p.BluRay x265-r00t.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Django 1966 UHD Bluray 2160p HDR10 DV HEVC FLAC 1.0 x265-E/Django 1966.mkv
+/run/media/ivan/THE_VAULT/4KMovies/F1.The.Movie.2025.2160p.UHD.Bluray.x265-ANZZ/F1.The.Movie.2025.2160p.UHD.Bluray.x265-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Ford.v.Ferrari.2019.UHD.BluRay.2160p.DDP.7.1.DV.HDR.x265-BHDStudio/Ford.v.Ferrari.2019.UHD.BluRay.2160p.DDP.7.1.DV.HDR.x265-BHDStudio.mp4
+/run/media/ivan/THE_VAULT/4KMovies/Ballerina.2025.2160p.UHD.BluRay.x265-r00t/Ballerina.2025.2160p.UHD.BluRay.x265-r00t.mkv
+
+========================================
+                HDR10+
+========================================
+/run/media/ivan/THE_VAULT/4KMovies/Guy.Ritchies.The.Covenant.2023.2160p.AMZN.WEB-DL.x265.10bit.HDR10Plus.DDP5.1.x265-CMRG[TGx]/Guy.Ritchies.The.Covenant.2023.2160p.AMZN.WEB-DL.DDP5.1.HDR.HEVC-CMRG.mkv
+
+========================================
+              HDR10 / HDR
+========================================
+/run/media/ivan/THE_VAULT/4KMovies/1917.2019.2160p.UHD.BluRay.x265.HDR.DTS-HD-SWTYBLZ/1917.2019.2160p.UHD.BluRay.x265.HDR.DTS-HD-SWTYBLZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Air.Force.One.1997.2160p.UHD.BluRay.X265.DTS.HD-IAMABLE/Air.Force.One.1997.2160p.UHD.BluRay.X265.DTS-HD-IAMABLE.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Akira.1988.JAPANESE.2160p.JPN.UHD.BluRay.x265.10bit.HDR.AC3-5.1-ANZZ/Akira.1988.JAPANESE.2160p.JPN.UHD.BluRay.x265.10bit.HDR.AC3-5.1-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Aladdin.1992.2160p.UHD.BluRay.x265.AC3-TERMiNAL/Aladdin.1992.2160p.UHD.BluRay.x265.AC3-TERMiNAL.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Alita.Battle.Angel.2019.2160p.UHD.BluRay.x265.AC3-TERMiNAL/Alita.Battle.Angel.2019.2160p.UHD.BluRay.x265.AC3-TERMiNAL.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Allied (2016) (2160p BluRay x265 HEVC 10bit HDR AAC 5.1 Tigole)/Allied (2016) (2160p BluRay x265 10bit HDR Tigole).mkv
+/run/media/ivan/THE_VAULT/4KMovies/Ambulance.2022.2160p.UHD.BluRay.x265.10bit.HDR.DDP5.1.Atmos-RARBG/Ambulance.2022.2160p.UHD.BluRay.x265.10bit.HDR.DDP5.1.Atmos-RARBG.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Batman.Returns.1992.2160p.UHD.BluRay.X265.AC3-IAMABLE/Batman.Returns.1992.2160p.UHD.BluRay.X265.AC3-IAMABLE.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Black.Hawk.Down.2001.EXTENDED.2160p.BluRay.x265.AC3-ANZZ/Black.Hawk.Down.2001.EXTENDED.2160p.BluRay.x265.AC3-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Blade.Runner.1982.The.Final.Cut.2160p.BluRay.REMUX.HEVC.DTS-ANZZ/Blade.Runner.1982.The.Final.Cut.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.TrueHD.7.1.Atmos-FGT.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Blade.Runner.2049.2017.2160p.BluRay.x265.DTS-SWTYBLZ/Blade.Runner.2049.2017.2160p.BluRay.x265.DTS-SWTYBLZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Blood.and.Black.Lace.1964.2160p.UHD.BluRay.x265-ANZZ/Blood.and.Black.Lace.1964.2160p.UHD.BluRay.x265-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Braveheart.1995.2160p.UHD.BluRay.X265.AC3-5.1-ANZZ/Braveheart.1995.2160p.UHD.BluRay.X265.AC3-5.1-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Bullet.Train.2022.2160p.UHD.BluRay.x265.10bit.HDR.AC3-5.1-SWTYBLZ/Bullet.Train.2022.2160p.UHD.BluRay.x265.10bit.HDR.AC3-5.1-SWTYBLZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Casablanca.1942.2160p.UHD.BluRay.x265.HDR.AC3-STEREO-ANZZ/Casablanca.1942.2160p.UHD.BluRay.x265.HDR.AC3-STEREO-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Casino (1995) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)/Casino (1995) (2160p BluRay x265 10bit HDR Tigole).mkv
+/run/media/ivan/THE_VAULT/4KMovies/Casino.Royale.2006.2160p.UHD.BluRay.X265.AC3-5.1-IAMABLE/Casino.Royale.2006.2160p.UHD.BluRay.X265.AC3-5.1-IAMABLE.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Christine.1983.2160p.UHD.BluRay.x265.AC3-5.1-ANZZ/Christine.1983.2160p.UHD.BluRay.x265.AC3-5.1-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Fury.2014.2160p.UHD.BluRay.x265.DTS.HD-TERMiNAL/Fury.2014.2160p.UHD.BluRay.x265.DTS-HD-TERMiNAL.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Gladiator.2000.EXTENDED.2160p.UHD.BluRay.x265.DTS-IAMABLE/Gladiator.2000.EXTENDED.2160p.UHD.BluRay.x265.DTS-IAMABLE.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Godzilla Minus One (2023) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Japanese Tigole)/Godzilla Minus One (2023) (2160p BluRay x265 10bit HDR Tigole).mkv
+/run/media/ivan/THE_VAULT/4KMovies/Goodfellas.1990.2160p.UHD.BluRay.X265.AC3-5.1-IAMABLE/Goodfellas.1990.2160p.UHD.BluRay.X265.AC3-5.1-IAMABLE.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Heat.1995.2160p.BluRay.x265-ANZZ/Heat.1995.2160p.BluRay.x265-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/In.the.Mood.for.Love.2000.CHINESE.2160p.UHD.BluRay.x265.10bit.HDR.DDP5.1-RARBG/In.the.Mood.for.Love.2000.CHINESE.2160p.UHD.BluRay.x265.10bit.HDR.DDP5.1-RARBG.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Indiana.Jones.and.the.Kingdom.of.the.Crystal.Skull.2008.2160p.UHD.BluRay.x265.AC3-5.1-JONES/Indiana.Jones.and.the.Kingdom.of.the.Crystal.Skull.2008.2160p.UHD.BluRay.x265.AC3-5.1-JONES.mkv
+/run/media/ivan/THE_VAULT/4KMovies/American Made (2017) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)/American Made (2017) (2160p BluRay x265 10bit HDR Tigole).mkv
+/run/media/ivan/THE_VAULT/4KMovies/Batman.Forever.1995.2160p.UHD.BluRay.X265.AC3-IAMABLE/Batman.Forever.1995.2160p.UHD.BluRay.X265.AC3-IAMABLE.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Clear.and.Present.Danger.1994.PROPER.2160p.UHD.BluRay.X265.AC3-IAMABLE/Clear.and.Present.Danger.1994.PROPER.2160p.UHD.BluRay.X265.AC3-IAMABLE.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Full.Metal.Jacket.1987.2160p.UHD.BluRay.x265.10bit.HDR.AC3-5.1-ANZZ/Full.Metal.Jacket.1987.2160p.UHD.BluRay.x265.10bit.HDR.AC3-5.1-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Indiana.Jones.and.the.Last.Crusade.1989.2160p.UHD.BluRay.x265.AC3-5.1-JONES/Indiana.Jones.and.the.Last.Crusade.1989.2160p.UHD.BluRay.x265.AC3-5.1-JONES.mkv
+/run/media/ivan/THE_VAULT/4KMovies/John.Wick.Chapter.3.Parabellum.2019.2160p.BluRay.x265.10bit.HDR.DTS.HD-SWTYBLZ/John.Wick.Chapter.3.Parabellum.2019.2160p.BluRay.x265.10bit.HDR.DTS-HD-SWTYBLZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Mission.Impossible.1996.2160p.UHD.BluRay.x265.AC3-ANZZ/Mission.Impossible.1996.2160p.UHD.BluRay.x265.DD-5.1-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Rambo.First.Blood.1982.2160p.UHD.BluRay.X265.DTS-IAMABLE/Rambo.First.Blood.1982.2160p.UHD.BluRay.X265.DTS-IAMABLE.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Singin.in.the.Rain.1952.2160p.UHD.BluRay.x265.10bit.HDR.AC3-5.1-ANZZ/Singin.in.the.Rain.1952.2160p.UHD.BluRay.x265.10bit.HDR.AC3-5.1-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Spider-Man.Into.the.Spider-Verse.2018.2160p.UHD.BluRay.x265.AC3-TERMiNAL/Spider-Man.Into.the.Spider-Verse.2018.2160p.UHD.BluRay.x265.AC3-TERMiNAL.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Star.Wars.Episode.VIII.The.Last.Jedi.2017.2160p.UHD.BluRay.x265.AC3-EMERALD/Star.Wars.The.Last.Jedi.2017.2160p.UHD.BluRay.x265.AC3-EMERALD.mkv
+/run/media/ivan/THE_VAULT/4KMovies/The.Martian.2015.EXTENDED.2160p.UHD.BluRay.x265.AC3-TERMiNAL/The.Martian.2015.EXTENDED.2160p.UHD.BluRay.x265.DD-5.1-TERMiNAL.mkv
+/run/media/ivan/THE_VAULT/4KMovies/The.Thing.1982.2160p.UHD.BluRay.x265.10bit.HDR.AC3-5.1-ANZZ/The.Thing.1982.2160p.UHD.BluRay.x265.10bit.HDR.AC3-5.1-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Jumanji.The.Next.Level.2019.2160p.UHD.BluRay.x265.HDR.AC3-SWTYBLZ/Jumanji.The.Next.Level.2019.2160p.UHD.BluRay.x265.HDR.AC3-SWTYBLZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Jumanji.Welcome.To.The.Jungle.2017.2160p.UHD.BluRay.x265.AC3-ANZZ/Jumanji.Welcome.To.The.Jungle.2017.2160p.UHD.BluRay.x265.AC3-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Jurassic.Park.1993.2160p.UHD.Blu-ray.x265-ANZZ/Jurassic.Park.1993.2160p.UHD.Blu-ray.x265-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/King.Kong.2005.2160p.UHD.BluRay.x265-ANZZ/King.Kong.2005.2160p.UHD.BluRay.x265-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Kingdom.of.Heaven.2005.2160p.BluRay.x265-ANZZ/Kingdom.of.Heaven.2005.2160p.BluRay.x265-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Leon.The.Professional.1994.EXTENDED.2160p.UHD.BluRay.X265.AC3-IAMABLE/Leon.The.Professional.1994.EXTENDED.2160p.UHD.BluRay.X265.DD-5.1-IAMABLE.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Mad.Max.1979.2160p.UHD.BluRay.x265.HDR.AC3-5.1-SWTYBLZ/Mad.Max.1979.2160p.UHD.BluRay.x265.HDR.AC3-5.1-SWTYBLZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Mad.Max.2.The.Road.Warrior.1981.PROPER.2160p.UHD.BluRay.x265.HDR.AC3-5.1-SWTYBLZ/Mad.Max.2.The.Road.Warrior.1981.PROPER.2160p.UHD.BluRay.x265.HDR.AC3-5.1-SWTYBLZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Mad.Max.Beyond.Thunderdome.1985.2160p.UHD.BluRay.x265.HDR.AC3-5.1-SWTYBLZ/Mad.Max.Beyond.Thunderdome.1985.2160p.UHD.BluRay.x265.HDR.AC3-5.1-SWTYBLZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Mad.Max.Fury.Road.2015.2160p.UHD.BluRay.X265.DTS.HD-ANZZ/Mad.Max.Fury.Road.2015.2160p.UHD.BluRay.X265.DTS-HD-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Rambo.First.Blood.Part.II.1985.2160p.UHD.BluRay.X265.DTS-IAMABLE/Rambo.First.Blood.Part.II.1985.2160p.UHD.BluRay.X265.DTS-IAMABLE.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Rambo.III.1988.2160p.UHD.BluRay.X265.DTS-IAMABLE/Rambo.III.1988.2160p.UHD.BluRay.X265.DTS-IAMABLE.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Rambo.Last.Blood.2019.2160p.UHD.BluRay.x265.AC3-AAAUHD/Rambo.Last.Blood.2019.2160p.UHD.BluRay.x265.AC3-AAAUHD.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Ratatouille.2007.2160p.UHD.BluRay.x265.AC3-5.1-ANZZ/Ratatouille.2007.2160p.UHD.BluRay.x265.AC3-5.1-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Rear.Window.1954.2160p.UHD.BluRay.x265.10bit.HDR.AC3-SWTYBLZ/Rear.Window.1954.2160p.UHD.BluRay.x265.10bit.HDR.AC3-SWTYBLZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Red.Heat.1988.2160p.UHD.BluRay.X265.DTS.HD-IAMABLE/Red.Heat.1988.2160p.UHD.BluRay.X265.DTS-HD-IAMABLE.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Rogue.One.A.Star.Wars.Story.2016.2160p.UHD.BluRay.x265.AC3-DEPTH/Rogue.One.A.Star.Wars.Story.2016.2160p.UHD.BluRay.x265.AC3-DEPTH.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Rope.1948.2160p.BluRay.x265-ANZZ/Rope.1948.2160p.BluRay.x265-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Saving.Private.Ryan.1998.2160p.UHD.BluRay.X265.AC3-5.1-IAMABLE/Saving.Private.Ryan.1998.2160p.UHD.BluRay.X265.AC3-5.1-IAMABLE.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Shaun.of.the.Dead.2004.2160p.UHD.BluRay.x265.AC3-5.1-ANZZ/Shaun.of.the.Dead.2004.2160p.UHD.BluRay.x265.AC3-5.1-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Star.Wars.Episode.I.The.Phantom.Menace.1999.2160p.UHD.BluRay.x265.AC3-DEPTH/Star.Wars.Episode.I.The.Phantom.Menace.1999.2160p.UHD.BluRay.x265.AC3-DEPTH.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Star.Wars.Episode.II.Attack.of.the.Clones.2002.2160p.UHD.BluRay.x265.AC3-DEPTH/Star.Wars.Episode.II.Attack.of.the.Clones.2002.2160p.UHD.BluRay.x265.AC3-DEPTH.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Star.Wars.Episode.III.Revenge.of.the.Sith.2005.2160p.UHD.BluRay.x265.10bit.HDR.DTS-SWTYBLZ/Star.Wars.Episode.III.Revenge.of.the.Sith.2005.2160p.UHD.BluRay.x265.10bit.HDR.DTS-SWTYBLZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Star.Wars.Episode.IV.A.New.Hope.1977.2160p.UHD.BluRay.x265.AC3-DEPTH/Star.Wars.Episode.IV.A.New.Hope.1977.2160p.UHD.BluRay.x265.AC3-DEPTH.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Star.Wars.Episode.IX.The.Rise.of.Skywalker.2019.2160p.UHD.BluRay.x265.HDR.DTS-ANZZ/Star.Wars.Episode.IX.The.Rise.of.Skywalker.2019.2160p.UHD.BluRay.x265.HDR.DTS-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Star.Wars.Episode.V.The.Empire.Strikes.Back.1980.2160p.UHD.BluRay.x265.AC3-DEPTH/Star.Wars.Episode.V.The.Empire.Strikes.Back.1980.2160p.UHD.BluRay.x265.AC3-DEPTH.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Star.Wars.Episode.VI.Return.of.the.Jedi.1983.2160p.UHD.BluRay.x265.AC3-DEPTH/Star.Wars.Episode.VI.Return.of.the.Jedi.1983.2160p.UHD.BluRay.x265.AC3-DEPTH.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Star.Wars.Episode.VII.The.Force.Awakens.2015.2160p.UHD.BluRay.x265.10bit.HDR.DTS-SWTYBLZ/Star.Wars.Episode.VII.The.Force.Awakens.2015.2160p.UHD.BluRay.x265.10bit.HDR.DTS-SWTYBLZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Suspiria.1977.REMASTERED.2160p.UHD.BluRay.x265.AC3-5.1-AViATOR/Suspiria.1977.REMASTERED.2160p.UHD.BluRay.x265.AC3-5.1-AViATOR.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Tenebre (1982) (2160p BluRay x265 HEVC 10bit HDR AAC 2.0 Tigole)/Tenebre (1982) (2160p BluRay x265 10bit HDR Tigole).mkv
+/run/media/ivan/THE_VAULT/4KMovies/The Abyss (1989) SE (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)/The Abyss (1989) SE (2160p BluRay x265 10bit HDR Tigole).mkv
+/run/media/ivan/THE_VAULT/4KMovies/The.Amazing.Spider-Man.2.2014.2160p.UHD.BluRay.x265.AC3-TERMiNAL/The.Amazing.Spider-Man.2.2014.2160p.UHD.BluRay.x265.DD-5.1-TERMiNAL.mkv
+/run/media/ivan/THE_VAULT/4KMovies/The.Amazing.Spider-Man.2012.2160p.UHD.BluRay.x265.AC3-TERMiNAL/The.Amazing.Spider-Man.2012.2160p.UHD.BluRay.x265.DD-5.1-TERMiNAL.mkv
+/run/media/ivan/THE_VAULT/4KMovies/The.Bird.with.the.Crystal.Plumage.1970.2160p.UHD.BluRay-NAHOM/The.Bird.with.the.Crystal.Plumage.1970.2160p.UHD.BluRay-NAHOM.mkv
+/run/media/ivan/THE_VAULT/4KMovies/The.Dark.Knight.2008.2160p.UHD.BluRay.X265.DTS-IAMABLE/The.Dark.Knight.2008.2160p.UHD.BluRay.X265.DTS-IAMABLE.mkv
+/run/media/ivan/THE_VAULT/4KMovies/The.Dark.Knight.Rises.2012.RERiP.2160p.UHD.BluRay.x265.DTS-TERMiNAL/The.Dark.Knight.Rises.2012.RERiP.2160p.UHD.BluRay.x265.DTS-TERMiNAL.mkv
+/run/media/ivan/THE_VAULT/4KMovies/The.Fog.1980.2160p.UHD.BluRay.x265.10bit.HDR.AC3-5.1-RARBG/The.Fog.1980.2160p.UHD.BluRay.x265.10bit.HDR.AC3-5.1-RARBG.mkv
+/run/media/ivan/THE_VAULT/4KMovies/The.Hunt.for.Red.October.1990.2160p.PROPER.UHD.BluRay.X265.AC3-IAMABLE/The.Hunt.for.Red.October.1990.2160p.PROPER.UHD.BluRay.X265.AC3-IAMABLE.mkv
+/run/media/ivan/THE_VAULT/4KMovies/The.Last.Duel.2021.2160p.UHD.BluRay.x265.10bit.HDR.DDP5.1.Atmos-RARBG/The.Last.Duel.2021.2160p.UHD.BluRay.x265.10bit.HDR.DDP5.1.Atmos-RARBG.mkv
+/run/media/ivan/THE_VAULT/4KMovies/The.Lion.King.1994.2160p.UHD.BluRay.X265.AC3-IAMABLE/The.Lion.King.1994.2160p.UHD.BluRay.X265.AC3-IAMABLE.mkv
+/run/media/ivan/THE_VAULT/4KMovies/The.Maltese.Falcon.1941.2160p.UHD.BluRay.x265.AC3-STEREO-ANZZ/The.Maltese.Falcon.1941.2160p.UHD.BluRay.x265.AC3-STEREO-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/The.Man.Who.Shot.Liberty.Valance.1962.2160p.UHD.BluRay.x265.AC3-5.1-B0MBARDiERS/The.Man.Who.Shot.Liberty.Valance.1962.2160p.UHD.BluRay.x265.AC3-5.1-B0MBARDiERS.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Mission.Impossible.Dead.Reckoning.Part.One.2023.2160p.BluRay.HDR10.DDP.7.1.x265-EDGE2020/Mission.Impossible.Dead.Reckoning.Part.One.2023.2160p.BluRay.HDR10.DDP.7.1.x265-EDGE2020.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Mission.Impossible.Fallout.2018.IMAX.2160p.BluRay.x265.AC3-ANZZ/Mission.Impossible.Fallout.2018.IMAX.2160p.BluRay.x265.AC3-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Mission.Impossible.Ghost.Protocol.2011.2160p.UHD.BluRay.x265.AC3-IAMABLE/Mission.Impossible.Ghost.Protocol.2011.2160p.UHD.BluRay.x265.DD-5.1-IAMABLE.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Mission.Impossible.II.2000.2160p.UHD.BluRay.x265.AC3-TERMiNAL/Mission.Impossible.II.2000.2160p.UHD.BluRay.x265.DD-5.1-TERMiNAL.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Mission.Impossible.III.2006.2160p.UHD.BluRay.x265.AC3-IAMABLE/Mission.Impossible.III.2006.2160p.UHD.BluRay.x265.DD-5.1-IAMABLE.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Mission.Impossible.Rogue.Nation.2015.2160p.UHD.BluRay.x265.AC3-IAMABLE/Mission.Impossible.Rogue.Nation.2015.2160p.UHD.BluRay.x265.DD-5.1-IAMABLE.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Murder.on.the.Orient.Express.2017.2160p.BluRay.X265.AC3-IAMABLE/Murder.on.the.Orient.Express.2017.2160p.BluRay.X265.DD-5.1-IAMABLE.mkv
+/run/media/ivan/THE_VAULT/4KMovies/North.by.Northwest.1959.2160p.UHD.BluRay.HDR.HEVC.AC3-ANZZ/North.by.Northwest.1959.2160p.UHD.BluRay.HDR.HEVC.AC3-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/The.Matrix.1999.RERIP.2160p.UHD.BluRay.X265.AC3-IAMABLE/The.Matrix.1999.RERIP.2160p.UHD.BluRay.X265.AC3-IAMABLE.mkv
+/run/media/ivan/THE_VAULT/4KMovies/The.Matrix.Reloaded.2003.2160p.UHD.BluRay.X265.AC3-IAMABLE/The.Matrix.Reloaded.2003.2160p.UHD.BluRay.X265.AC3-IAMABLE.mkv
+/run/media/ivan/THE_VAULT/4KMovies/The.Matrix.Revolutions.2003.2160p.UHD.BluRay.X265.AC3-IAMABLE/The.Matrix.Revolutions.2003.2160p.UHD.BluRay.X265.AC3-IAMABLE.mkv
+/run/media/ivan/THE_VAULT/4KMovies/The.Mummy.1999.2160p.UHD.BluRay.X265.AC3-5.1-IAMABLE/The.Mummy.1999.2160p.UHD.BluRay.X265.AC3-5.1-IAMABLE.mkv
+/run/media/ivan/THE_VAULT/4KMovies/The.Mummy.Returns.2001.2160p.UHD.BluRay.X265.AC3-5.1-IAMABLE/The.Mummy.Returns.2001.2160p.UHD.BluRay.X265.AC3-5.1-IAMABLE.mkv
+/run/media/ivan/THE_VAULT/4KMovies/The.Mummy.Tomb.of.the.Dragon.Emperor.2008.2160p.UHD.BluRay.X265.AC3-5.1-IAMABLE/The.Mummy.Tomb.of.the.Dragon.Emperor.2008.2160p.UHD.BluRay.X265.AC3-5.1-IAMABLE.mkv
+/run/media/ivan/THE_VAULT/4KMovies/The.Revenant.2015.2160p.UHD.BluRay.X265.DTS-IAMABLE/The.Revenant.2015.2160p.UHD.BluRay.X265.DTS-IAMABLE.mkv
+/run/media/ivan/THE_VAULT/4KMovies/The.Sting.1973.2160p.UHD.BluRay.x265.AC3-5.1-GUHZER/The.Sting.1973.2160p.UHD.BluRay.x265.AC3-5.1-GUHZER.mkv
+/run/media/ivan/THE_VAULT/4KMovies/The.Trouble.with.Harry.1955.2160p.BluRay.x265-ANZZ/The.Trouble.with.Harry.1955.2160p.BluRay.x265-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/The.Unbearable.Weight.of.Massive.Talent.2022.2160p.UHD.BluRay.x265.10bit.HDR.DDP5.1.Atmos-RARBG/The.Unbearable.Weight.of.Massive.Talent.2022.2160p.UHD.BluRay.x265.10bit.HDR.DDP5.1.Atmos-RARBG.mkv
+/run/media/ivan/THE_VAULT/4KMovies/They.Live.1988.2160p.US.UHD.BluRay.x265.10bit.HDR.DD-5.1-SWTYBLZ/They.Live.1988.2160p.US.UHD.BluRay.x265.10bit.HDR.DD-5.1-SWTYBLZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Thief.1981.2160p.UHD.BluRay.x265-ANZZ/Thief.1981.2160p.UHD.BluRay.x265-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Togo.2019.2160p.HDR.DSNP.WEBRip.X265.EAC3-TrollUHD/Togo.2019.2160p.HDR.DSNP.WEBRip.X265.EAC3-TrollUHD.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Top.Gun.Maverick.2022.IMAX.2160p.UHD.BluRay.x265.10bit.HDR.AC3-5.1-ANZZ/Top.Gun.Maverick.2022.IMAX.2160p.UHD.BluRay.x265.10bit.HDR.AC3-5.1-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Training.Day.2001.2160p.UHD.BluRay.x265.HDR.AC3-5.1-RARBG/Training.Day.2001.2160p.UHD.BluRay.x265.HDR.AC3-5.1-RARBG.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Transformers.2007.2160p.BluRay.x265-ANZZ/Transformers.2007.2160p.BluRay.x265-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Transformers.Revenge.of.the.Fallen.2009.UHD.BluRay.2160p.x265-ANZZ/Transformers.Revenge.of.the.Fallen.2009.UHD.BluRay.2160p.x265-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Vertigo.1958.2160p.UHD.BluRay.x265.10bit.HDR.DTS-SWTYBLZ/Vertigo.1958.2160p.UHD.BluRay.x265.10bit.HDR.AC3-SWTYBLZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/WALL.E.2008.2160p.UHD.BluRay.x265.AC3-AViATOR/WALL.E.2008.2160p.UHD.BluRay.x265.AC3-AViATOR.mkv
+/run/media/ivan/THE_VAULT/4KMovies/War.Dogs.2016.2160p.UHD.BluRay.x265.AC3-5.1-TERMiNAL/War.Dogs.2016.2160p.UHD.BluRay.x265.AC3-5.1-TERMiNAL.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Skyfall.2012.2160p.UHD.BluRay.X265.AC3-5.1-IAMABLE/Skyfall.2012.2160p.UHD.BluRay.X265.AC3-5.1-IAMABLE.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Solo.A.Star.Wars.Story.2018.2160p.BluRay.x265.10bit.HDR.AC3-SWTYBLZ/Solo.A.Star.Wars.Story.2018.2160p.BluRay.x265.10bit.HDR.AC3-SWTYBLZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Soul.2020.2160p.UHD.BluRay.x265.10bit.HDR.AC3-5.1-SWTYBLZ/Soul.2020.2160p.UHD.BluRay.x265.10bit.HDR.DD-5.1-SWTYBLZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Spartacus.1960.2160p.UHD.BluRay.X265.AC3-5.1-ANZZ/Spartacus.1960.2160p.UHD.BluRay.X265.AC3-5.1-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Spectre.2015.2160p.UHD.BluRay.X265.AC3-5.1-IAMABLE/Spectre.2015.2160p.UHD.BluRay.X265.AC3-5.1-IAMABLE.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Spider-Man.2002.UHD.BluRay.2160p.TrueHD.Atmos.7.1.HEVC.REMUX-FraMeSToR/Spider-Man.2002.UHD.BluRay.2160p.TrueHD.Atmos.7.1.HEVC.REMUX-FraMeSToR.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Crouching.Tiger.Hidden.Dragon.2000.2160p.UHD.BluRay.x265.AC3-5.1-DEPTH/Crouching.Tiger.Hidden.Dragon.2000.2160p.UHD.BluRay.x265.AC3-5.1-DEPTH.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Deadpool.2.2018.2160p.UHD.BluRay.x265.AC3-TERMiNAL/Deadpool.2.2018.2160p.UHD.BluRay.x265.DD-5.1-TERMiNAL.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Deadpool.2016.2160p.UHD.BluRay.x265.AC3-EMERALD/Deadpool.2016.2160p.UHD.BluRay.x265.DD-5.1-EMERALD.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Deep.Red.1975.4K.HDR.2160p.BDRip Ita Eng x265-NAHOM/Deep.Red.1975.4K.HDR.2160p.BDRip Ita Eng x265-NAHOM.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Devotion.2022.2160p.UHD.BluRay.x265.10bit.HDR.DDP5.1.Atmos-RARBG/Devotion.2022.2160p.UHD.BluRay.x265.10bit.HDR.DDP5.1.Atmos-RARBG.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Doctor Sleep (2019) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)/Doctor Sleep (2019) (2160p BluRay x265 10bit HDR Tigole).mkv
+/run/media/ivan/THE_VAULT/4KMovies/Drive (2011) V2 (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)/Drive (2011) V2 (2160p BluRay x265 10bit HDR Tigole).mkv
+/run/media/ivan/THE_VAULT/4KMovies/Dunkirk.2017.2160p.UHD.BluRay.x265.DTS.HD-TERMiNAL/Dunkirk.2017.2160p.UHD.BluRay.x265.DTS-HD-TERMiNAL.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Edge.of.Tomorrow.2014.2160p.UHD.BluRay.x265.10bit.HDR.AC3-5.1-ANZZ/Edge.of.Tomorrow.2014.2160p.UHD.BluRay.x265.10bit.HDR.AC3-5.1-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Escape.from.New.York.1981.2160p.US.UHD.BluRay.x265.10bit.HDR.AC3-5.1-SWTYBLZ/Escape.from.New.York.1981.2160p.US.UHD.BluRay.x265.10bit.HDR.AC3-5.1-SWTYBLZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Family.Plot.1976.2160p.UHD.BluRay.x265.AC3-STEREO-ANZZ/Family.Plot.1976.2160p.UHD.BluRay.x265.AC3-STEREO-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Flow.2024.2160p.UHD.BluRay.x265-ANZZ/Flow.2024.2160p.UHD.BluRay.x265-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Anatomy.of.a.Murder.1959.2160p.UHD.BluRay.x265.AC3-5.1-SURCODE/Anatomy.of.a.Murder.1959.2160p.UHD.BluRay.x265.AC3-5.1-SURCODE.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Apocalypse.Now.1979.Final.Cut.2160p.UHD.BluRay.X265.10bit.HDR.AC3-TERMiNAL/Apocalypse.Now.1979.Final.Cut.2160p.UHD.BluRay.X265.10bit.HDR.AC3-TERMiNAL.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Aquaman.2018.IMAX.2160p.BluRay.x265.AC3-ANZZ/Aladdin.1992.2160p.UHD.BluRay.x265.AC3-TERMiNAL/Aladdin.1992.2160p.UHD.BluRay.x265.AC3-TERMiNAL.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Aquaman.2018.IMAX.2160p.BluRay.x265.AC3-ANZZ/Alita.Battle.Angel.2019.2160p.UHD.BluRay.x265.AC3-TERMiNAL/Alita.Battle.Angel.2019.2160p.UHD.BluRay.x265.AC3-TERMiNAL.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Aquaman.2018.IMAX.2160p.BluRay.x265.AC3-ANZZ/Allied (2016) (2160p BluRay x265 HEVC 10bit HDR AAC 5.1 Tigole)/Allied (2016) (2160p BluRay x265 10bit HDR Tigole).mkv
+/run/media/ivan/THE_VAULT/4KMovies/Aquaman.2018.IMAX.2160p.BluRay.x265.AC3-ANZZ/American Made (2017) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)/American Made (2017) (2160p BluRay x265 10bit HDR Tigole).mkv
+/run/media/ivan/THE_VAULT/4KMovies/Aquaman.2018.IMAX.2160p.BluRay.x265.AC3-ANZZ/Apocalypse.Now.1979.Final.Cut.2160p.UHD.BluRay.X265.10bit.HDR.AC3-TERMiNAL/Apocalypse.Now.1979.Final.Cut.2160p.UHD.BluRay.X265.10bit.HDR.AC3-TERMiNAL.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Aquaman.2018.IMAX.2160p.BluRay.x265.AC3-ANZZ/Aquaman.2018.IMAX.2160p.BluRay.x265.AC3-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Back.to.the.Future.1985.2160p.UHD.BluRay.x265.HDR.AC3-5.1-ANZZ/Back.to.the.Future.1985.2160p.UHD.BluRay.x265.HDR.AC3-5.1-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Back.to.the.Future.Part.II.1989.2160p.UHD.BluRay.x265.HDR.AC3-5.1-ANZZ/Back.to.the.Future.Part.II.1989.2160p.UHD.BluRay.x265.HDR.AC3-5.1-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Back.to.the.Future.Part.III.1990.2160p.UHD.BluRay.x265.HDR.AC3-5.1-ANZZ/Back.to.the.Future.Part.III.1990.2160p.UHD.BluRay.x265.HDR.AC3-5.1-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Batman.1989.2160p.UHD.BluRay.X265.AC3-IAMABLE/Batman.1989.2160p.UHD.BluRay.X265.AC3-IAMABLE.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Batman.and.Robin.1997.2160p.UHD.BluRay.X265.AC3-IAMABLE/Batman.and.Robin.1997.2160p.UHD.BluRay.X265.AC3-IAMABLE.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Batman.Begins.2005.2160p.BluRay.x265.AC3-ANZZ/Batman.Begins.2005.2160p.BluRay.x265.AC3-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Patriot.Games.1992.2160p.UHD.BluRay.X265.AC3-IAMABLE/Patriot.Games.1992.2160p.UHD.BluRay.X265.AC3-IAMABLE.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Peeping.Tom.1960.2160p.UHD.BluRay.x265-ANZZ/Peeping.Tom.1960.2160p.UHD.BluRay.x265-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Phenomena (1985) Integral Cut (2160p BluRay x265 HEVC 10bit HDR AAC 5.1 Tigole)/Phenomena (1985) Integral Cut (2160p BluRay x265 10bit HDR Tigole).mkv
+/run/media/ivan/THE_VAULT/4KMovies/Pirates of the Caribbean - At World's End (2007) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)/Pirates of the Caribbean - At World's End (2007) (2160p BluRay x265 10bit HDR Tigole).mkv
+/run/media/ivan/THE_VAULT/4KMovies/Pirates of the Caribbean - Dead Man's Chest (2006) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)/Pirates of the Caribbean - Dead Man's Chest (2006) (2160p BluRay x265 10bit HDR Tigole).mkv
+/run/media/ivan/THE_VAULT/4KMovies/Pirates of the Caribbean - Dead Men Tell No Tales (2017) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)/Pirates of the Caribbean - Dead Men Tell No Tales (2017) (2160p BluRay x265 10bit HDR Tigole).mkv
+/run/media/ivan/THE_VAULT/4KMovies/Pirates of the Caribbean - On Stranger Tides (2011) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)/Pirates of the Caribbean - On Stranger Tides (2011) (2160p BluRay x265 10bit HDR Tigole).mkv
+/run/media/ivan/THE_VAULT/4KMovies/Pirates of the Caribbean - The Curse of the Black Pearl (2003) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)/Pirates of the Caribbean - The Curse of the Black Pearl (2003) (2160p BluRay x265 10bit HDR Tigole).mkv
+/run/media/ivan/THE_VAULT/4KMovies/Predator.1987.2160p.UHD.BluRay.X265.DTS.HD-IAMABLE/Predator.1987.2160p.UHD.BluRay.X265.DTS-HD-IAMABLE.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Puss.in.Boots.The.Last.Wish.2022.2160p.UHD.BluRay.x265-AC3-5.1-ANZZ/Puss.in.Boots.The.Last.Wish.2022.2160p.UHD.BluRay.x265-AC3-5.1-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Quantum.of.Solace.2008.2160p.UHD.BluRay.X265.AC3-5.1-IAMABLE/Quantum.of.Solace.2008.2160p.UHD.BluRay.X265.AC3-5.1-IAMABLE.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Rambo.2008.EXTENDED.2160p.BluRay.x265.10bit.HDR.DTS-SWTYBLZ/Rambo.2008.EXTENDED.2160p.BluRay.x265.10bit.HDR.DTS-SWTYBLZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Indiana.Jones.and.the.Raiders.of.the.Lost.Ark.1981.2160p.UHD.BluRay.x265.HDR.AC3-5.1-SWTYBLZ/Indiana.Jones.and.the.Raiders.of.the.Lost.Ark.1981.2160p.UHD.BluRay.x265.HDR.AC3-5.1-SWTYBLZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Indiana.Jones.and.the.Temple.of.Doom.1984.2160p.UHD.BluRay.x265.AC3-5.1-JONES/Indiana.Jones.and.the.Temple.of.Doom.1984.2160p.UHD.BluRay.x265.AC3-5.1-JONES.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Infernal Affairs (2002) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Chinese Tigole)/Infernal Affairs (2002) (2160p BluRay x265 10bit HDR Tigole).mkv
+/run/media/ivan/THE_VAULT/4KMovies/Infernal Affairs II (2003) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Chinese Tigole)/Infernal Affairs II (2003) (2160p BluRay x265 10bit HDR Tigole).mkv
+/run/media/ivan/THE_VAULT/4KMovies/Infernal Affairs III (2003) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Chinese Tigole)/Infernal Affairs III (2003) (2160p BluRay x265 10bit HDR Tigole).mkv
+/run/media/ivan/THE_VAULT/4KMovies/Interstellar.2014.2160p.UHD.BluRay.x265.DTS.HD-TERMiNAL/Interstellar.2014.2160p.UHD.BluRay.x265.DTS-HD-TERMiNAL.mkv
+/run/media/ivan/THE_VAULT/4KMovies/John.Wick.2014.2160p.UHD.BluRay.x265.DTS.HD-ANZZ/John.Wick.2014.2160p.UHD.BluRay.x265.DTS-HD-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/John.Wick.Chapter.2.2017.2160p.UHD.BluRay.x265.AC3-TERMiNAL/John.Wick.Chapter.2.2017.2160p.UHD.BluRay.x265.DD-5.1-TERMiNAL.mkv
+
+========================================
+                 SDR
+========================================
+/run/media/ivan/THE_VAULT/4KMovies/The.Brutalist.2024.2160p.UHD.BluRay.x265-r00t/The.Brutalist.2024.2160p.UHD.BluRay.x265-r00t.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Night.of.the.Living.Dead.1968.2160p.UHD.BluRay.x265.AC3-MONO-ANZZ/Night.of.the.Living.Dead.1968.2160p.UHD.BluRay.x265.AC3-MONO-ANZZ.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Phenomena (1985) Integral Cut (2160p BluRay x265 HEVC 10bit HDR AAC 5.1 Tigole)/Featurettes/Gallery - Japanese Pressbook.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Phenomena (1985) Integral Cut (2160p BluRay x265 HEVC 10bit HDR AAC 5.1 Tigole)/Featurettes/Radio Spots.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Infernal Affairs II (2003) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Chinese Tigole)/Featurettes/Bloopers.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Infernal Affairs II (2003) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Chinese Tigole)/Featurettes/Confidential File.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Infernal Affairs II (2003) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Chinese Tigole)/Featurettes/Making of.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Infernal Affairs II (2003) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Chinese Tigole)/Featurettes/Outtakes.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Infernal Affairs II (2003) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Chinese Tigole)/Featurettes/Theme Song.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Infernal Affairs III (2003) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Chinese Tigole)/Featurettes/After the Infernal Affairs.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Infernal Affairs III (2003) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Chinese Tigole)/Featurettes/Bloopers.mkv
+/run/media/ivan/THE_VAULT/4KMovies/Infernal Affairs III (2003) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Chinese Tigole)/Featurettes/Theme Song.mkv
