@@ -51,7 +51,6 @@ SDR:          12
               HDR10 / HDR
 ========================================
 /run/media/ivan/THE_VAULT/4KMovies/1917.2019.2160p.UHD.BluRay.x265.HDR.DTS-HD-SWTYBLZ/1917.2019.2160p.UHD.BluRay.x265.HDR.DTS-HD-SWTYBLZ.mkv
-/run/media/ivan/THE_VAULT/4KMovies/Air.Force.One.1997.2160p.UHD.BluRay.X265.DTS.HD-IAMABLE/Air.Force.One.1997.2160p.UHD.BluRay.X265.DTS-HD-IAMABLE.mkv
 /run/media/ivan/THE_VAULT/4KMovies/Akira.1988.JAPANESE.2160p.JPN.UHD.BluRay.x265.10bit.HDR.AC3-5.1-ANZZ/Akira.1988.JAPANESE.2160p.JPN.UHD.BluRay.x265.10bit.HDR.AC3-5.1-ANZZ.mkv
 /run/media/ivan/THE_VAULT/4KMovies/Aladdin.1992.2160p.UHD.BluRay.x265.AC3-TERMiNAL/Aladdin.1992.2160p.UHD.BluRay.x265.AC3-TERMiNAL.mkv
 /run/media/ivan/THE_VAULT/4KMovies/Alita.Battle.Angel.2019.2160p.UHD.BluRay.x265.AC3-TERMiNAL/Alita.Battle.Angel.2019.2160p.UHD.BluRay.x265.AC3-TERMiNAL.mkv
@@ -63,12 +62,9 @@ SDR:          12
 /run/media/ivan/THE_VAULT/4KMovies/Blade.Runner.2049.2017.2160p.BluRay.x265.DTS-SWTYBLZ/Blade.Runner.2049.2017.2160p.BluRay.x265.DTS-SWTYBLZ.mkv
 /run/media/ivan/THE_VAULT/4KMovies/Blood.and.Black.Lace.1964.2160p.UHD.BluRay.x265-ANZZ/Blood.and.Black.Lace.1964.2160p.UHD.BluRay.x265-ANZZ.mkv
 /run/media/ivan/THE_VAULT/4KMovies/Braveheart.1995.2160p.UHD.BluRay.X265.AC3-5.1-ANZZ/Braveheart.1995.2160p.UHD.BluRay.X265.AC3-5.1-ANZZ.mkv
-/run/media/ivan/THE_VAULT/4KMovies/Bullet.Train.2022.2160p.UHD.BluRay.x265.10bit.HDR.AC3-5.1-SWTYBLZ/Bullet.Train.2022.2160p.UHD.BluRay.x265.10bit.HDR.AC3-5.1-SWTYBLZ.mkv
 /run/media/ivan/THE_VAULT/4KMovies/Casablanca.1942.2160p.UHD.BluRay.x265.HDR.AC3-STEREO-ANZZ/Casablanca.1942.2160p.UHD.BluRay.x265.HDR.AC3-STEREO-ANZZ.mkv
 /run/media/ivan/THE_VAULT/4KMovies/Casino (1995) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)/Casino (1995) (2160p BluRay x265 10bit HDR Tigole).mkv
 /run/media/ivan/THE_VAULT/4KMovies/Casino.Royale.2006.2160p.UHD.BluRay.X265.AC3-5.1-IAMABLE/Casino.Royale.2006.2160p.UHD.BluRay.X265.AC3-5.1-IAMABLE.mkv
-/run/media/ivan/THE_VAULT/4KMovies/Christine.1983.2160p.UHD.BluRay.x265.AC3-5.1-ANZZ/Christine.1983.2160p.UHD.BluRay.x265.AC3-5.1-ANZZ.mkv
-/run/media/ivan/THE_VAULT/4KMovies/Fury.2014.2160p.UHD.BluRay.x265.DTS.HD-TERMiNAL/Fury.2014.2160p.UHD.BluRay.x265.DTS-HD-TERMiNAL.mkv
 /run/media/ivan/THE_VAULT/4KMovies/Gladiator.2000.EXTENDED.2160p.UHD.BluRay.x265.DTS-IAMABLE/Gladiator.2000.EXTENDED.2160p.UHD.BluRay.x265.DTS-IAMABLE.mkv
 /run/media/ivan/THE_VAULT/4KMovies/Godzilla Minus One (2023) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Japanese Tigole)/Godzilla Minus One (2023) (2160p BluRay x265 10bit HDR Tigole).mkv
 /run/media/ivan/THE_VAULT/4KMovies/Goodfellas.1990.2160p.UHD.BluRay.X265.AC3-5.1-IAMABLE/Goodfellas.1990.2160p.UHD.BluRay.X265.AC3-5.1-IAMABLE.mkv
@@ -167,7 +163,6 @@ SDR:          12
 /run/media/ivan/THE_VAULT/4KMovies/Crouching.Tiger.Hidden.Dragon.2000.2160p.UHD.BluRay.x265.AC3-5.1-DEPTH/Crouching.Tiger.Hidden.Dragon.2000.2160p.UHD.BluRay.x265.AC3-5.1-DEPTH.mkv
 /run/media/ivan/THE_VAULT/4KMovies/Deadpool.2.2018.2160p.UHD.BluRay.x265.AC3-TERMiNAL/Deadpool.2.2018.2160p.UHD.BluRay.x265.DD-5.1-TERMiNAL.mkv
 /run/media/ivan/THE_VAULT/4KMovies/Deadpool.2016.2160p.UHD.BluRay.x265.AC3-EMERALD/Deadpool.2016.2160p.UHD.BluRay.x265.DD-5.1-EMERALD.mkv
-/run/media/ivan/THE_VAULT/4KMovies/Deep.Red.1975.4K.HDR.2160p.BDRip Ita Eng x265-NAHOM/Deep.Red.1975.4K.HDR.2160p.BDRip Ita Eng x265-NAHOM.mkv
 /run/media/ivan/THE_VAULT/4KMovies/Devotion.2022.2160p.UHD.BluRay.x265.10bit.HDR.DDP5.1.Atmos-RARBG/Devotion.2022.2160p.UHD.BluRay.x265.10bit.HDR.DDP5.1.Atmos-RARBG.mkv
 /run/media/ivan/THE_VAULT/4KMovies/Doctor Sleep (2019) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)/Doctor Sleep (2019) (2160p BluRay x265 10bit HDR Tigole).mkv
 /run/media/ivan/THE_VAULT/4KMovies/Drive (2011) V2 (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)/Drive (2011) V2 (2160p BluRay x265 10bit HDR Tigole).mkv
@@ -178,12 +173,6 @@ SDR:          12
 /run/media/ivan/THE_VAULT/4KMovies/Flow.2024.2160p.UHD.BluRay.x265-ANZZ/Flow.2024.2160p.UHD.BluRay.x265-ANZZ.mkv
 /run/media/ivan/THE_VAULT/4KMovies/Anatomy.of.a.Murder.1959.2160p.UHD.BluRay.x265.AC3-5.1-SURCODE/Anatomy.of.a.Murder.1959.2160p.UHD.BluRay.x265.AC3-5.1-SURCODE.mkv
 /run/media/ivan/THE_VAULT/4KMovies/Apocalypse.Now.1979.Final.Cut.2160p.UHD.BluRay.X265.10bit.HDR.AC3-TERMiNAL/Apocalypse.Now.1979.Final.Cut.2160p.UHD.BluRay.X265.10bit.HDR.AC3-TERMiNAL.mkv
-/run/media/ivan/THE_VAULT/4KMovies/Aquaman.2018.IMAX.2160p.BluRay.x265.AC3-ANZZ/Aladdin.1992.2160p.UHD.BluRay.x265.AC3-TERMiNAL/Aladdin.1992.2160p.UHD.BluRay.x265.AC3-TERMiNAL.mkv
-/run/media/ivan/THE_VAULT/4KMovies/Aquaman.2018.IMAX.2160p.BluRay.x265.AC3-ANZZ/Alita.Battle.Angel.2019.2160p.UHD.BluRay.x265.AC3-TERMiNAL/Alita.Battle.Angel.2019.2160p.UHD.BluRay.x265.AC3-TERMiNAL.mkv
-/run/media/ivan/THE_VAULT/4KMovies/Aquaman.2018.IMAX.2160p.BluRay.x265.AC3-ANZZ/Allied (2016) (2160p BluRay x265 HEVC 10bit HDR AAC 5.1 Tigole)/Allied (2016) (2160p BluRay x265 10bit HDR Tigole).mkv
-/run/media/ivan/THE_VAULT/4KMovies/Aquaman.2018.IMAX.2160p.BluRay.x265.AC3-ANZZ/American Made (2017) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)/American Made (2017) (2160p BluRay x265 10bit HDR Tigole).mkv
-/run/media/ivan/THE_VAULT/4KMovies/Aquaman.2018.IMAX.2160p.BluRay.x265.AC3-ANZZ/Apocalypse.Now.1979.Final.Cut.2160p.UHD.BluRay.X265.10bit.HDR.AC3-TERMiNAL/Apocalypse.Now.1979.Final.Cut.2160p.UHD.BluRay.X265.10bit.HDR.AC3-TERMiNAL.mkv
-/run/media/ivan/THE_VAULT/4KMovies/Aquaman.2018.IMAX.2160p.BluRay.x265.AC3-ANZZ/Aquaman.2018.IMAX.2160p.BluRay.x265.AC3-ANZZ.mkv
 /run/media/ivan/THE_VAULT/4KMovies/Back.to.the.Future.1985.2160p.UHD.BluRay.x265.HDR.AC3-5.1-ANZZ/Back.to.the.Future.1985.2160p.UHD.BluRay.x265.HDR.AC3-5.1-ANZZ.mkv
 /run/media/ivan/THE_VAULT/4KMovies/Back.to.the.Future.Part.II.1989.2160p.UHD.BluRay.x265.HDR.AC3-5.1-ANZZ/Back.to.the.Future.Part.II.1989.2160p.UHD.BluRay.x265.HDR.AC3-5.1-ANZZ.mkv
 /run/media/ivan/THE_VAULT/4KMovies/Back.to.the.Future.Part.III.1990.2160p.UHD.BluRay.x265.HDR.AC3-5.1-ANZZ/Back.to.the.Future.Part.III.1990.2160p.UHD.BluRay.x265.HDR.AC3-5.1-ANZZ.mkv
